@@ -1,9 +1,8 @@
 /************************************************************************************
-Written by: Vinod Desai,Sachitanand Malewar NEX Robotics Pvt. Ltd.
-Edited by: e-Yantra team
+Written by: Sundar.S.P
 AVR Studio Version 6
 
-Date: 19th October 2012
+Date: 13/2/19
 
  Application example: Robot control over serial port via XBee wireless communication module 
  					  (located on the ATMEGA260 microcontroller adaptor board)
